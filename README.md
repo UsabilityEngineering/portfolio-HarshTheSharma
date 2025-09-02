@@ -1,6 +1,6 @@
-# UX Portfolio
+# Harsh's UX Portfolio
 
-About me...
+I'm Harsh Sharma, welcome to my UX portfolio!
 
 ## UX Team Project
 
