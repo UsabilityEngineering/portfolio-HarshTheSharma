@@ -2,7 +2,7 @@
 
 I'm Harsh Sharma, welcome to my UX portfolio!
 
-![A Picture of me](WIN_20250902_15_02_55_Pro.jpg)
+![A Picture of me](https://github.com/user-attachments/assets/2d4d319b-98ca-45b5-86a6-e88ea1a6dfc4)
 
 
 
